@@ -86,6 +86,9 @@ Combines clean records again for any final joining logic.
 Select Values 4:
 
 Finalizes the output schema, ready for downstream loading or export.
+
+<img width="2160" height="1313" alt="Screenshot 2025-07-22 174038" src="https://github.com/user-attachments/assets/2ad32638-ebc5-456b-bb9a-4ff06a7c2b22" />
+
 📌 Key Highlights
 Visual drag-and-drop workflow with no coding.
 
