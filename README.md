@@ -6,6 +6,11 @@ This ETL project demonstrates a complete pipeline built with Pentaho Data Integr
 🚀 Objective
 To extract data from different input sources (Excel, CSV, ZIP, Text), clean and normalize values, remove duplicates, apply fuzzy matching, and derive new fields using transformation logic — all through a visual ETL workflow in Pentaho.
 
+<img width="2160" height="1301" alt="Screenshot 2025-07-22 113221" src="https://github.com/user-attachments/assets/b13f4bb4-42dc-4098-8ad9-780f8176d994" />
+
+
+
+
 🔧 Tools & Technologies
 Pentaho Data Integration (PDI / Kettle)
 
